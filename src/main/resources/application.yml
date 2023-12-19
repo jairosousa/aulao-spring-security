@@ -1,0 +1,11 @@
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          google:
+            client-id: ${ID_CLIENTE}
+            client-secret: ${CHAVE_SECRETA_CLIENTE}
+      resourceserver:
+        jwt:
+          issuer-uri: https://accounts.google.com

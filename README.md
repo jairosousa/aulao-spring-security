@@ -5,10 +5,10 @@ Projeto apresenta novidade sobre o uso so Spring Security.
 ## Roteiro
 
 - [x] Criação de um projeto sem segurança
-- [ ] Adição do spring  e proteção automática
-- [ ] Configuração de segurança para as rotas
-- [ ] Autenticação mo Google com Oauth2
-- [ ] Autenticação JWT
+- [x] Adição do spring  e proteção automática
+- [x] Configuração de segurança para as rotas
+- [x] Autenticação mo Google com Oauth2
+- [x] Autenticação com JWT
 
 
 ## Referência
